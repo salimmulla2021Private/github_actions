@@ -8,7 +8,7 @@ def test_cal_subtraction():
 	output = 2 -4
 	assert output == -2
 
-def test_cal_multiplication:
+def test_cal_multiplication():
 	output = 2 * 4
 	assert output == 8
 
