@@ -1,6 +1,3 @@
-import pytest
-
-
 def test_cal_addition():
     output = 2 + 4
     assert output == 6
