@@ -18,4 +18,4 @@ def test_cal_multiplication():
 
 def test_coucou():
     output = "Hello"
-    assert output == "Hello" 
+    assert output == "Hello"
